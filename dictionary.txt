@@ -1,5 +1,5 @@
 abhi : don 
-Abhishek: Dongre 
+Abhi : Dongre 
 abhiram : cousin 
 all: veryone 
 as : like 
